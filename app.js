@@ -26,8 +26,9 @@ function agregarAmigo(){
     actualizarLista();
 }
 
-
+// Esta función se encarga de actualizar la lista con los nombres de nuestros amigos
 function actualizarLista(){
+    
     let listaActualizada = document.getElementById("listaAmigos");
     listaActualizada.innerHTML = "";
     amigos.forEach(amigo => {
@@ -37,7 +38,7 @@ function actualizarLista(){
     })
 }
 
-
+//  Función para sortear uno de los amigo que agregamos
 function sortearAmigo(){
     if (amigos.length == 0){
         alert("NO hay amigos disponibles");
