@@ -28,8 +28,9 @@ function agregarAmigo(){
 
 // Esta función se encarga de actualizar la lista con los nombres de nuestros amigos
 function actualizarLista(){
-    
+
     let listaActualizada = document.getElementById("listaAmigos");
+
     listaActualizada.innerHTML = "";
     amigos.forEach(amigo => {
         let li = document.createElement("li");
@@ -40,11 +41,15 @@ function actualizarLista(){
 
 //  Función para sortear uno de los amigo que agregamos
 function sortearAmigo(){
+    // Usamos condicional en el que si la variable amigos no contine nombres, aparece una alerta
     if (amigos.length == 0){
         alert("NO hay amigos disponibles");
         return;
     }
+    // Le damos un valor de entero a cada nombre en la lista, elegimos uno con Math.random() y lo guardamos en la variable numeroAmigo
     let numeroAmigo = Math.floor(Math.random() * amigos.length);
+    // Accedemos al nombre del indice aleatorio obtenido
     let amigoSecreto = amigos[numeroAmigo];
+    // Imprimimos la frase con el nombre del amigo sorteado
     document.getElementById("resultado").textContent = "El amigo secreto es: " + amigoSecreto 
 }
