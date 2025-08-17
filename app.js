@@ -28,9 +28,7 @@ function agregarAmigo(){
 
 // Esta función se encarga de actualizar la lista con los nombres de nuestros amigos
 function actualizarLista(){
-
     let listaActualizada = document.getElementById("listaAmigos");
-
     listaActualizada.innerHTML = "";
     // Recorre todos los elementos de amigo
     amigos.forEach(amigo => {
