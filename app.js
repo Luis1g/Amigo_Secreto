@@ -47,7 +47,7 @@ function actualizarLista(){
 function sortearAmigo(){
     // Usamos condicional en el que si la variable amigos no contine nombres, aparece una alerta
     if (amigos.length == 0){
-        alert("NO hay amigos disponibles");
+        alert("No hay amigos disponibles");
         return;
     }
     // Le damos un valor de entero a cada nombre en la lista, elegimos uno con Math.random() y lo guardamos en la variable numeroAmigo
