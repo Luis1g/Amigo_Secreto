@@ -23,3 +23,10 @@ Este proyecto forma parte de la formacion como "Principiante en programación". 
 > Es el encargado de crear la pagina asi como los botones que nos ayudaran a interaccionar con la aplicacion.
 - **style.css**
 > Contiene el diseño y estilo de vista para nuestra pagina.
+
+
+## Clonar proyecto
+
+El proyecto puede ser clonado en un repositorio de git o en su computador, con el fin de mejorar el codigo o agregar nuevas funcionalidades.
+
+Puedes realizarlo desde git usando el comando --> git cloned "https://github.com/Luis1g/challenge-amigo-secreto_esp-main.git"
