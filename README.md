@@ -16,4 +16,10 @@
 
 ## Introducción
 
-
+Este proyecto forma parte de la formacion como "Principiante en programación". El proyecto consta de tres partes principales:
+- **app.js**
+ > Este archivo contiene toda la logica de programación, que nos ayuda a interactuar entre la pagina y la persona fisica.
+- **index.html**
+> Es el encargado de crear la pagina asi como los botones que nos ayudaran a interaccionar con la aplicacion.
+- **style.css**
+> Contiene el diseño y estilo de vista para nuestra pagina.
