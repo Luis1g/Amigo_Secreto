@@ -4,6 +4,7 @@
     <br />
     <br />
     <img src = "assets/amigo-secreto.png" alt = "AmigoSecreto">
+    </a>
     </h1>
 </div>
 
