@@ -6,7 +6,7 @@
     <img src = "assets/amigo-secreto.png" alt = "AmigoSecreto">
 
 <p align = "center">
-    <a href= "https://app.aluracursos.com/course/logica-programacion-challenge-amigo-secreto>" > </a>
+    <a href= "https://app.aluracursos.com/course/logica-programacion-challenge-amigo-secreto>" > <img src= "assets/Alura.png" align = "right" alt = "Alura Follow" /> </a>
 </p>
 <h1> Introducción  </h>
 
