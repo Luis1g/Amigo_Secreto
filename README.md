@@ -37,3 +37,8 @@ Puedes realizarlo desde git usando el comando --> git cloned "https://github.com
 - Agrega el nombre de tus amigos.
 - Da click en el botón "Sortear amigos"
 - La pagina te devolvera el nombre de uno de tus amigos, de manera aleatoria.
+
+
+## Contacto
+
+Puedes contarme por correo electronico si tienes alguna duda sobre el proyecto "luishernandezroman78@gmail.com".
