@@ -3,5 +3,5 @@
     Amigo secreto
     <br />
     <br />
-    <img src = "amigo-secreto.png" alt = "AmigoSecreto">
+    <img src = "assets/amigo-secreto.png" alt = "AmigoSecreto">
 <h1> Instrucciones de uso  </h>
