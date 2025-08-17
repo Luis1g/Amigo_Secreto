@@ -32,9 +32,13 @@ function actualizarLista(){
     let listaActualizada = document.getElementById("listaAmigos");
 
     listaActualizada.innerHTML = "";
+    // Recorre todos los elementos de amigo
     amigos.forEach(amigo => {
+        // Crea un nuevo elemento en la lista <li>
         let li = document.createElement("li");
+        // Coloca el texto dentro del <li>
         li.textContent = amigo;
+        // Inserta el <li> al final del contenedor listaActualizada
         listaActualizada.appendChild(li);
     })
 }
