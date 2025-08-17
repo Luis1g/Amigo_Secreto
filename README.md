@@ -30,3 +30,10 @@ Este proyecto forma parte de la formacion como "Principiante en programación". 
 El proyecto puede ser clonado en un repositorio de git o en su computador, con el fin de mejorar el codigo o agregar nuevas funcionalidades.
 
 Puedes realizarlo desde git usando el comando --> git cloned "https://github.com/Luis1g/challenge-amigo-secreto_esp-main.git"
+
+## Instrucciones de uso de la pagina
+
+- Ingresa a https://luis1g.github.io/Amigo_Secreto/ 
+- Agrega el nombre de tus amigos.
+- Da click en el botón "Sortear amigos"
+- La pagina te devolvera el nombre de uno de tus amigos, de manera aleatoria.
